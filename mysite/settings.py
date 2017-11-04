@@ -25,7 +25,7 @@ SECRET_KEY = 'hsf@&&frdra9rz+_$o63opib!_$oi(-j#%r70)x$^aeeyodc%h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','lekha.pythonanywhere.com']
 
 
 # Application definition
